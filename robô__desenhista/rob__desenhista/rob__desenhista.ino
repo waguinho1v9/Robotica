@@ -8,6 +8,9 @@ void setup() {
 }
 
 void loop() {
-  // put your main code here, to run repeatedly:
-
-}
+  pinMode (5, OUTPUT) ;
+  pinMode (6, OUTPUT) ;
+  pinMode (9, OUTPUT) ;
+  pinMode (10, OUTPUT) ;
+  
+void loop() 
